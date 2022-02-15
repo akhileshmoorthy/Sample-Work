@@ -7,11 +7,11 @@ h1{
     color: blue;
     font-family: 'Times New Roman', Times, serif;
 } */
-#para2
+/* #para2
 {
     color: cornflowerblue;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
+} */
 
 .pclass{
     color: blue;
@@ -40,4 +40,12 @@ h1{
     background: darkgray;
     border:  solid 3px;
     border-color: firebrick;
+    color:black
+}
+
+.outer-box{
+    height: 100%;
+    width: 100%;
+    background-color: blueviolet;
+
 }

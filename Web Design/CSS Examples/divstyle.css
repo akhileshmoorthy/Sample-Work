@@ -1,0 +1,37 @@
+.outer-box{
+
+    height: 273px;
+    width: 100%;
+    background: blueviolet;
+    
+
+}
+.box1{
+    width: 20%;
+    height: 25%;
+    background: yellow;
+    float: left;
+    margin: 10px ;
+}
+.box2{
+    width: 20%;
+    height: 25%;
+    background: cadetblue;
+    float: left;
+    margin: 10px ;
+}
+.box3{
+    width: 20%;
+    height: 25%;
+    background: rgb(35, 25, 48);
+    float: left;
+    margin: 10px ;
+}
+
+.box4{
+    width: 20%;
+    height: 25%;
+    background: darkorange;
+    float: left;
+    margin: 10px ;
+}
