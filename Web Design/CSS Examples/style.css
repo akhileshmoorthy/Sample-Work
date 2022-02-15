@@ -3,8 +3,17 @@ h1{
     color: blue
     
 }
-button{
-    background-color: blueviolet;
-    color: crimson;
-    font-style: italic;
+/* #para1{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+} */
+#para2
+{
+    color: cornflowerblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.pclass{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
 }
