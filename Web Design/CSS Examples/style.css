@@ -17,3 +17,27 @@ h1{
     color: blue;
     font-family: 'Times New Roman', Times, serif;
 }
+
+.mydiv{
+    margin-left: 30px;
+    margin-top: 50px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    padding-right: 30px;
+    text-align: justify;
+    border:solid 3px;
+    border-color: brown;
+    background: cyan;
+}
+
+.innerdiv{
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+    background: darkgray;
+    border:  solid 3px;
+    border-color: firebrick;
+}
